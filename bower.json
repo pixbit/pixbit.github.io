@@ -8,6 +8,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "principles": "git@github.com:jxnblk/principles.git"
+    "principles": "git@github.com:jxnblk/principles.git",
+    "papercraft": "git@github.com:jxnblk/papercraft.git"
   }
 }
