@@ -240,9 +240,9 @@ a:hover { color: #0cf; }
 
 .transition-all { transition: all .2s ease; }
 
-.papercraft-back { fill: #ccc; }
+.papercraft-back { fill: #666; }
 
-.papercraft-front { fill: #eee; }
+.papercraft-front { fill: #2EACFF; }
 
 .outline, .outline * { outline: 1px solid pink; }
 
