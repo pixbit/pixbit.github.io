@@ -9,6 +9,7 @@
   "private": true,
   "dependencies": {
     "principles": "git@github.com:jxnblk/principles.git",
-    "papercraft": "git@github.com:jxnblk/papercraft.git"
+    "papercraft": "git@github.com:jxnblk/papercraft.git",
+    "basscss": "https://github.com/jxnblk/basscss.git#~5.0.0"
   }
 }
