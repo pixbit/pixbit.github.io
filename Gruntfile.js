@@ -6,7 +6,8 @@ module.exports = function(grunt) {
      * Project Variables
      */
     project: {
-      papercraft: 'bower_components/papercraft/css'
+      papercraft: 'bower_components/papercraft/css',
+      sass: 'assets/sass'
     }
 
     ,sass: {
@@ -15,7 +16,7 @@ module.exports = function(grunt) {
           style: 'compact'
         },
         files: {
-           'papercraft.css' : '<%= project.papercraft %>/style.scss'
+           'papercraft.css' : '<%= project.sass %>/papercraft.scss'
         }
       }
     }
