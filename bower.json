@@ -1,0 +1,13 @@
+{
+  "name": "pixbit-github-io",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pixbit/pixbit.github.io",
+  "authors": [
+    "Edwin Estrada <edwin@thinkpixbit.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "principles": "git@github.com:jxnblk/principles.git"
+  }
+}
